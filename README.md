@@ -6,6 +6,6 @@ The repository will host python programs for different image processing techniqu
 
 #### Filters:
 
-  1. [Mean Filters](https://www.google.com)
+  1. [Mean Filters](https://github.com/brinsga/ImageProcessing-ComputerVision/tree/master/Mean%20Filter)
 
 
