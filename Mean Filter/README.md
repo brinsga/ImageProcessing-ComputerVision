@@ -9,3 +9,11 @@ the image. The intensity of a pixel is altered based on the values of the neighb
 Mean Filters help with:
 1. Denoising
 2. Smoothing
+
+### Noisy Image
+![alt text](https://github.com/brinsga/ImageProcessing-ComputerVision/blob/master/Mean%20Filter/gaussian.jpg)
+
+### After Applying Mean Filter
+![alt text](https://github.com/brinsga/ImageProcessing-ComputerVision/blob/master/Mean%20Filter/result.gif)
+
+Image Source: <http://homepages.inf.ed.ac.uk/rbf/HIPR2/mean.htm>
